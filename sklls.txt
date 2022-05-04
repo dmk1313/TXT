@@ -1,0 +1,6 @@
+skills
+1 bash
+2 JS
+3 Postman
+4 Android SDK
+5 more on site https://ksendzov.com/
