@@ -1,0 +1,4 @@
+name Makarov Dmitry
+age 28
+pets 0
+future desired salary $10000000
