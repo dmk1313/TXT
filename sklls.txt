@@ -1,6 +1,22 @@
 skills
-1 bash
-2 JS
-3 Postman
-4 Android SDK
-5 more on site https://ksendzov.com/
+1 Manual_Testing
+2 SQL
+3 Functional_Testing
+4 Test_Cases
+5 Git
+6 touch
+7 Ubuntu
+8 Postman
+9 Mobile_Applications
+10 Web_Applications
+11 Postman_API
+12 JIRA
+13 DBeaver
+14 Bug_Tracking
+15 JMeter
+16 Web_Services
+17 JavaScript
+18 bash
+19 Hyper-V
+20 Charles_Web_Debugging_ProxyCharles
+21 Network_equipment_setup
